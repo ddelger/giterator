@@ -1,4 +1,4 @@
-package iterate
+package giterator
 
 import "reflect"
 
